@@ -27,6 +27,9 @@ FIXME: listing of options this app accepts.
 ### Any Other Sections
 ### That You Think
 ### Might be Useful
+That is a little game that I copied from a book, brave clojure.
+I think I got the idea of how to build a little program by using
+a functional programming language.
 
 ## License
 
